@@ -316,7 +316,7 @@ Code structure may be referenced for educational purposes.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003087,50:C91C1C,100:003087&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-**Made w by Shreyas Sadavarte**
+**Made by Shreyas Sadavarte**
 
 *If this project helped you, consider giving it a ⭐ on GitHub!*
 
